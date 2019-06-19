@@ -1,0 +1,20 @@
+.cs142-topbar-appBar {
+  height: 90px;
+  justify-content: 'center';
+
+}
+
+.container{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.version{
+  text-align: center;
+  color: blue;
+}
+
+.info{
+  text-align: right;
+}

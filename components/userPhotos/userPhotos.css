@@ -1,0 +1,33 @@
+.date{
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+.comment{
+  font-weight: bold;
+  /* display: inline-block;
+  background-color: gray; */
+}
+
+.user{
+  font-weight: bold;
+}
+
+.title{
+  font-size: 50px;
+  font-weight: bold;
+  text-align: center;
+}
+.image{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.commentButton{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 40px;
+  font-size: 20px;
+}

@@ -1,0 +1,12 @@
+.image{
+  height: 100px;
+  width: 100px;
+}
+
+.return{
+  height: 30px;
+  width: 100px;
+  margin: 0 auto;
+  display: block;
+  font-weight: bold;
+}

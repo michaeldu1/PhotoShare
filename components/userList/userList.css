@@ -1,0 +1,11 @@
+.list{
+  color: white;
+  font-size: 20px;
+  margin-bottom: 40px;
+  justify-content: center;
+  background-color: #aec6cf;
+}
+
+.list:hover {
+  background-color: gray;
+}
